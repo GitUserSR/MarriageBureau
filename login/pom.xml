@@ -7,7 +7,7 @@
     <artifactId>MarriageBureau</artifactId>
     <version>1.0</version>
   </parent>
-  <groupId>com.kenglobe.login</groupId>
+  <groupId>com.kenglobe.marriagebureau.login</groupId>
   <artifactId>login</artifactId>
   <version>1.0</version>
   <name>login</name>
