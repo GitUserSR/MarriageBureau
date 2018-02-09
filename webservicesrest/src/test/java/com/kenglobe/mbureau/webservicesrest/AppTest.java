@@ -1,4 +1,4 @@
-package com.kenglobe.webservicessoap;
+package com.kenglobe.mbureau.webservicesrest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

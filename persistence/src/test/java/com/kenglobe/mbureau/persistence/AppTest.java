@@ -1,4 +1,4 @@
-package com.kenglobe.webservicesrest;
+package com.kenglobe.mbureau.persistence;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

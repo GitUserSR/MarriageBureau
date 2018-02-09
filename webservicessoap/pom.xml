@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>com.kenglobe.marriagebureau</groupId>
-    <artifactId>MarriageBureau</artifactId>
+    <groupId>com.kenglobe.mbureau</groupId>
+    <artifactId>mbureau</artifactId>
     <version>1.0</version>
   </parent>
-  <groupId>com.kenglobe.marriagebureau.webservicessoap</groupId>
+  <groupId>com.kenglobe.mbureau.webservicessoap</groupId>
   <artifactId>webservicessoap</artifactId>
   <version>1.0</version>
   <name>webservicessoap</name>

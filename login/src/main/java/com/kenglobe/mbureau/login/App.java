@@ -1,4 +1,4 @@
-package com.kenglobe.webservicesrest;
+package com.kenglobe.mbureau.login;
 
 /**
  * Hello world!

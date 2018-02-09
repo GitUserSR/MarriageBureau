@@ -3,13 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>com.kenglobe.marriagebureau</groupId>
-    <artifactId>MarriageBureau</artifactId>
+    <groupId>com.kenglobe.mbureau</groupId>
+    <artifactId>mbureau</artifactId>
     <version>1.0</version>
   </parent>
-  <groupId>com.kenglobe.marriagebureau.webservicesrest</groupId>
+  <groupId>com.kenglobe.mbureau.webservicesrest</groupId>
   <artifactId>webservicesrest</artifactId>
-  <version>1.0</version>
+  <version>1,0</version>
   <name>webservicesrest</name>
   <url>http://maven.apache.org</url>
   <properties>

@@ -1,4 +1,4 @@
-package com.kenglobe.login;
+package com.kenglobe.mbureau.login;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
