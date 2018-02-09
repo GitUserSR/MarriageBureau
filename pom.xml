@@ -11,5 +11,6 @@
     <module>persistence</module>
     <module>webservicesrest</module>
     <module>webservicessoap</module>
+    <module>mbureauSpringBoot</module>
   </modules>
 </project>

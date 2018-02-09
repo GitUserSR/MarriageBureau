@@ -1,4 +1,4 @@
-package com.kenglobe.mbureau.persistence;
+package com.kenglobe.mbureau.springframework.boot;
 
 /**
  * Hello world!

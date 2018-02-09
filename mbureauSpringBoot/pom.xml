@@ -7,10 +7,10 @@
     <artifactId>mbureau</artifactId>
     <version>1.0</version>
   </parent>
-  <groupId>com.kenglobe.mbureau.webservicesrest</groupId>
-  <artifactId>webservicesrest</artifactId>
+  <groupId>com.kenglobe.mbureau.springframework.boot</groupId>
+  <artifactId>mbureauSpringBoot</artifactId>
   <version>1.0</version>
-  <name>webservicesrest</name>
+  <name>mbureauSpringBoot</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

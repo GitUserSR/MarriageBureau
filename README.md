@@ -21,3 +21,8 @@ For each module:
 mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=RELEASE
 
 Note that -DarchetypeVersion=RELEASE above will automatically use the latest version of the archetype. You may want to add -DgroupId=... to each of those commands to avoid repeating yourself.
+
+---------------------------------------------------------------------------------------------
+How to package/deploy multi module maven application
+http://books.sonatype.com/mvnex-book/reference/multimodule-sect-building-multimodule.html
+---------------------------------------------------------------------------------------------
