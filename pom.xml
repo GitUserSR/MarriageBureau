@@ -10,5 +10,6 @@
     <module>login</module>
     <module>webservicessoap</module>
     <module>webservicesrest</module>
+    <module>persistence</module>
   </modules>
 </project>
