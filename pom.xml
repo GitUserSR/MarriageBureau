@@ -8,5 +8,7 @@
   <name>MarriageBureau</name>
   <modules>
     <module>login</module>
+    <module>webservicessoap</module>
+    <module>webservicesrest</module>
   </modules>
 </project>
