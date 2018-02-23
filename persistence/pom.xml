@@ -10,7 +10,7 @@
   <groupId>com.kenglobe.mbureau.persistence.hibernate</groupId>
   <artifactId>mbureauPersistence</artifactId>
   <version>1.0</version>
-  <name>persistence</name>
+  <name>mbureauPersistence</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
